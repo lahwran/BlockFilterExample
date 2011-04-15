@@ -1,0 +1,3 @@
+name: StoneTest
+main: net.lahwran.bukkit.blockfilter.example.BlockSendExamplePlugin
+version: 0.1
